@@ -33,7 +33,7 @@ public class ClientResource{
         c3.id = 3;
         c3.nome = "Elias";
         c3.endereco = "Rua Z, 65";
-        c3.saldo = 666.0;
+        c3.saldo = 777.0;
 
         clientes = Arrays.asList(c1,c2,c3);
     }
